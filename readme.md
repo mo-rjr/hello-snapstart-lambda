@@ -7,3 +7,6 @@ Hello Snapstart!  When do you instantiate?  Do we need to fetch our SSM paramete
 
 ## handler
 uk.gov.metoffice.hello.rjr.HelloSnapstartLambdaHandler::handleRequest
+
+## what happened?
+There's some information in the docs folder
